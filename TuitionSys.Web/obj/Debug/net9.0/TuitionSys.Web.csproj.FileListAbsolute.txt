@@ -1,0 +1,853 @@
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\appsettings.Development.json
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\appsettings.json
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Web.staticwebassets.runtime.json
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Web.staticwebassets.endpoints.json
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Web.exe
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Web.deps.json
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Web.runtimeconfig.json
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Web.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Web.pdb
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Azure.Core.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Azure.Identity.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Humanizer.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Mono.TextTemplating.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\System.ClientModel.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\System.CodeDom.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\System.Composition.Convention.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\System.Composition.Hosting.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\System.Composition.Runtime.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\System.Composition.TypedParts.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\System.Formats.Asn1.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\System.Memory.Data.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\System.Runtime.Caching.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\System.Text.Json.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Application.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Domain.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Infrastructure.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Application.pdb
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Infrastructure.pdb
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Domain.pdb
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\TuitionSys.Web.csproj.AssemblyReference.cache
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\TuitionSys.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\TuitionSys.Web.AssemblyInfoInputs.cache
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\TuitionSys.Web.AssemblyInfo.cs
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\TuitionSys.Web.csproj.CoreCompileInputs.cache
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\TuitionSys.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\TuitionSys.Web.RazorAssemblyInfo.cache
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\TuitionSys.Web.RazorAssemblyInfo.cs
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\scopedcss\bundle\TuitionSys.Web.styles.css
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\scopedcss\projectbundle\TuitionSys.Web.bundle.scp.css
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\rcnj7xwk1a-b9sayid5wm.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\fl721j3wfj-61n19gt1b8.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\6s6y1ff71b-xtxxf3hu2r.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\fui8by2ebp-bqjiyaj88i.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\rp7j4o3y5c-c2jlpeoesf.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\dh7lpk57mz-erw9l3u2r3.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\41idbl3tpz-aexeepp0ev.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\4ile3yx67q-d7shbmvgxk.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\ufohyu8374-ausgxo2sd3.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\tyw0vn7ap7-k8d9w2qqmf.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\e05kq77elm-cosvhxvwiu.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\wnqt7citgs-ub07r2b239.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\z60rdbyc6n-fvhpjtyr6v.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\w6hh1rvr32-b7pk76d08c.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\4w9ony0gfb-fsbi9cje9m.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\rqe7pn31qp-rzd6atqjts.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\p8144kijeu-ee0r1s7dh0.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\yha52jgggx-dxx9fxp4il.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\yn9whizw07-jd9uben2k1.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\wexkrefbbo-khv3u5hwcm.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\ijt1o9ntio-r4e9w2rdcm.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\z10xsmttjj-lcd1t2u6c8.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\mxsfbw603t-c2oey78nd0.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\848wph9hxv-tdbxkamptv.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\vrpoom3rjn-j5mq2jizvt.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\qtrmkte2ms-06098lyss8.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\luarkyweq5-nvvlpmu67g.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\i9al5ktlkg-s35ty4nyc5.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\cm3gnj7kyg-pj5nd1wqec.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\m3owmc426e-46ein0sx1k.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\10rxw2xdcb-v0zj4ognzu.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\i4f7ftpg7u-37tfw0ft22.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\g2zsgw5ptv-hrwsygsryq.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\fprb2pllxe-pk9g2wxc8p.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\cjtp1ijp85-ft3s53vfgj.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\j1pqw6yc0s-6cfz1n2cew.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\x5jyju4z4r-6pdc2jztkx.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\0clctkiy0y-493y06b0oq.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\nuty4keuvx-iovd86k7lj.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\m82wv4qxt5-vr1egmr9el.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\j2k25is42u-kbrnm935zg.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\a2g829peny-jj8uyg4cgr.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\r726fdch2r-y7v9cxd14o.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\y8hzmms0ce-notf2xhcfb.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\teth1lypdv-h1s4sie4z3.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\asdvyp678g-63fj8s7r0e.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\fchsf2gvdr-0j3bgjxly4.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\0rrwtjt5i1-47otxtyo56.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\gncsgmbdb9-4v8eqarkd7.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\zto8km3xfv-356vix0kms.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\m3g770r55z-83jwlth58m.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\v4bt6lkrog-mrlpezrjn3.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\3e00yv3mqq-lzl9nlhx6b.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\nx2lwbrr1f-ag7o75518u.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\jdox7jvltd-x0q3zqp4vz.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\72z2usa0b7-0i3buxo5is.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\u0gjhlsunv-o1o13a6vjx.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\qjy1hl0pyh-ttgo8qnofa.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\0ecsyzckjs-2z0ns9nrw6.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\rpomc4ns42-muycvpuwrr.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\btff7qxkpl-87fc7y1x7t.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\shfwcviclv-mlv21k5csn.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\c8e0cw25jk-srj8hbdm74.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\q9dwlwl3j0-srj8hbdm74.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\staticwebassets.build.json
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\staticwebassets.development.json
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\staticwebassets\msbuild.TuitionSys.Web.Microsoft.AspNetCore.StaticWebAssets.props
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\staticwebassets\msbuild.TuitionSys.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\staticwebassets\msbuild.build.TuitionSys.Web.props
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.TuitionSys.Web.props
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.TuitionSys.Web.props
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\staticwebassets.pack.json
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\TuitionS.DA691588.Up2Date
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\TuitionSys.Web.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\refint\TuitionSys.Web.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\TuitionSys.Web.pdb
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\TuitionSys.Web.genruntimeconfig.cache
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\ref\TuitionSys.Web.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Build.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Newtonsoft.Json.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\NuGet.Common.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\NuGet.Configuration.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\NuGet.Frameworks.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\NuGet.LibraryModel.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\NuGet.Packaging.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\NuGet.ProjectModel.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\NuGet.Protocol.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\NuGet.Versioning.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\af\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ar\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\az\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\bg\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\cs\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\da\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\de\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\el\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\es\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\fa\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\fr\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\he\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\hr\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\hu\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\hy\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\id\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\is\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\it\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ja\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ku\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\lv\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\mt\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\nb\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\nl\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\pl\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\pt\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ro\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ru\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\sk\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\sl\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\sr\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\sv\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\tr\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\uk\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\vi\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\8spe86skmw-kb3out9fl2.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\7452u3oml9-097a5k7pm2.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\pesldumm1o-ytkzst8lei.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\rax00l5weu-zzelxgebap.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\m5jxkr6235-ab904hc51g.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\n9wns5sl3i-06dr3qsvgn.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\1pin9a50gj-x4rexo7k82.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\c0lck0lot3-a0b70n93cs.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\bnqqj0q7z8-0af8z5ggyv.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\k73iqrlw0l-l30hzbe0pu.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\direq7cm80-v1hc4hzpmp.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\drez4vr4b7-a2dbb9x29j.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\b4sxlkxo5p-thgv8runu5.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\6x7vwsm7sz-bfafo1tmnz.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\7jcsmv4qia-h4ntji30jv.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\0wfn1vvd9e-t0hrx0iz2i.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\xv8ehnr5zd-6r77ag75i5.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\vsnduocsd3-clns3ame9m.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\16ukf3ildt-p33xvwih9q.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\4gewsbdjdq-zfwo0h4d8e.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\5shpoisjox-qf4arm7m9q.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\eh6gv19vmp-hn0tbruu9v.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\7119ej1s6w-lvh8mywier.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\8r8g77r7bm-m9ynwh8xt1.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\b5vufgkbtg-cpunr2sike.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\rorw2606ej-go4rbw5vli.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\gzabfbfe0g-a81e4zkeh7.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\8pze3miwma-hk2w1w3d9y.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\i7nxri4h5n-rksbuy5qn4.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\57jb5iusde-u1xjrydd8p.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\ra0rg3dkmd-v5dqa5j133.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\e6xlvj93id-14afk7jea0.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\ajlsd4zixb-bown59fzjl.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\qeopbi2d7u-lovhra9r6c.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\cc2699cl7k-1x9a5hpdcu.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\q7nwb8dvd6-8iy6xrsqqu.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\3egbu3zhoe-aieem7jyiu.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\1vebkjqmno-8xdc56hgmt.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\6gktaajcon-djlf810sa7.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\rb749si63d-nmdp7nqve0.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\kwh345kofm-yf5m37m0mz.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\y5sc5vcby8-8ixfnatrue.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\ykpkmmn4zb-o1o13a6vjx.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\dphmfw7uob-inr9tztuh6.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\g4zq8bv8e8-z6emo0ieah.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\o6z5j5uh8w-cmfamyz0vu.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\7mk7485jlt-88ayljc3y9.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\775xmgcsbj-zzhbizqlk9.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\hkmguu9lhi-84g50xniwd.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\5gr42aox2d-tn8x2ci1s4.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\d6bsehc1rl-3n6ep3jmzo.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\eat5x51wge-gwndjpfll5.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\lsl1tic0qd-sz6990sd63.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\zfciczir8x-7ub7l7u5y6.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\vwd3yp2998-d5tc9bphfz.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\e052vcpy0b-goiki0k27y.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\3co0i05c8u-8m9trw2zc0.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\lroaceq1g3-o4p01wfodq.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\22evos2e5f-9ugm0d1n88.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\njs6zyw5y3-u76qalwz83.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\bsnz8q7glh-6ipdnegl6t.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\b1pxdvas16-udl76tydnh.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\xd172lfsz2-8jbdq0rmwb.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\gt7847dv7d-igx4hwr9mg.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\71pvxm1651-ipglhweb5e.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\no10mj9ke7-3ajr5l1ur1.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\cdk5dnrtvw-plfii9xsjz.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\l14898ngr7-80oebio2b4.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\xy1dp2a21y-vm6amm7x7h.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\97u9n0wn62-421brr8qwd.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\air1r2rv69-dqqfs0d2l4.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\c2pjfu7cai-8hn3gfsrsx.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\wread2ps5n-p3vlq0e0uj.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\bi0v1ierkn-gdvxgon1od.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\h3ncls8web-ewjeo1t8vm.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\obj\Debug\net9.0\compressed\1gblj0sxbz-6md53zf9mt.gz
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\DinkToPdf.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Web\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\appsettings.Development.json
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\appsettings.json
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Web.staticwebassets.endpoints.json
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Web.staticwebassets.runtime.json
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Web.exe
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Web.deps.json
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Web.runtimeconfig.json
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Web.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Web.pdb
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Azure.Core.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Azure.Identity.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\DinkToPdf.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Humanizer.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Build.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Mono.TextTemplating.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Newtonsoft.Json.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\NuGet.Common.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\NuGet.Configuration.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\NuGet.Frameworks.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\NuGet.LibraryModel.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\NuGet.Packaging.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\NuGet.ProjectModel.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\NuGet.Protocol.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\NuGet.Versioning.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\System.ClientModel.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\System.CodeDom.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\System.Composition.Convention.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\System.Composition.Hosting.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\System.Composition.Runtime.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\System.Composition.TypedParts.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\System.Formats.Asn1.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\System.Memory.Data.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\System.Runtime.Caching.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\System.Text.Json.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\af\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ar\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\az\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\bg\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\cs\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\da\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\de\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\el\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\es\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\fa\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\fr\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\he\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\hr\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\hu\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\hy\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\id\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\is\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\it\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ja\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ku\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\lv\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\mt\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\nb\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\nl\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\pl\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\pt\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ro\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ru\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\sk\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\sl\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\sr\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\sv\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\tr\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\uk\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\vi\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Application.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Domain.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Infrastructure.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Application.pdb
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Infrastructure.pdb
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\bin\Debug\net9.0\TuitionSys.Domain.pdb
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\TuitionSys.Web.csproj.AssemblyReference.cache
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\TuitionSys.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\TuitionSys.Web.AssemblyInfoInputs.cache
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\TuitionSys.Web.AssemblyInfo.cs
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\TuitionSys.Web.csproj.CoreCompileInputs.cache
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\TuitionSys.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\TuitionSys.Web.RazorAssemblyInfo.cache
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\TuitionSys.Web.RazorAssemblyInfo.cs
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\TuitionSys.Web.sourcelink.json
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\scopedcss\bundle\TuitionSys.Web.styles.css
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\scopedcss\projectbundle\TuitionSys.Web.bundle.scp.css
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\8spe86skmw-kb3out9fl2.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\7452u3oml9-097a5k7pm2.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\pesldumm1o-ytkzst8lei.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\rax00l5weu-zzelxgebap.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\m5jxkr6235-ab904hc51g.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\n9wns5sl3i-06dr3qsvgn.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\1pin9a50gj-x4rexo7k82.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\c0lck0lot3-a0b70n93cs.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\bnqqj0q7z8-0af8z5ggyv.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\k73iqrlw0l-l30hzbe0pu.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\direq7cm80-v1hc4hzpmp.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\drez4vr4b7-a2dbb9x29j.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\b4sxlkxo5p-thgv8runu5.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\6x7vwsm7sz-bfafo1tmnz.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\7jcsmv4qia-h4ntji30jv.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\0wfn1vvd9e-t0hrx0iz2i.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\xv8ehnr5zd-6r77ag75i5.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\vsnduocsd3-clns3ame9m.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\16ukf3ildt-p33xvwih9q.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\4gewsbdjdq-zfwo0h4d8e.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\5shpoisjox-qf4arm7m9q.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\eh6gv19vmp-hn0tbruu9v.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\7119ej1s6w-lvh8mywier.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\8r8g77r7bm-m9ynwh8xt1.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\b5vufgkbtg-cpunr2sike.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\rorw2606ej-go4rbw5vli.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\gzabfbfe0g-a81e4zkeh7.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\8pze3miwma-hk2w1w3d9y.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\i7nxri4h5n-rksbuy5qn4.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\57jb5iusde-u1xjrydd8p.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\ra0rg3dkmd-v5dqa5j133.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\e6xlvj93id-14afk7jea0.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\ajlsd4zixb-bown59fzjl.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\qeopbi2d7u-lovhra9r6c.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\cc2699cl7k-1x9a5hpdcu.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\q7nwb8dvd6-8iy6xrsqqu.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\3egbu3zhoe-aieem7jyiu.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\1vebkjqmno-8xdc56hgmt.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\6gktaajcon-djlf810sa7.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\rb749si63d-nmdp7nqve0.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\kwh345kofm-yf5m37m0mz.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\y5sc5vcby8-8ixfnatrue.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\ykpkmmn4zb-o1o13a6vjx.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\dphmfw7uob-inr9tztuh6.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\g4zq8bv8e8-z6emo0ieah.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\o6z5j5uh8w-cmfamyz0vu.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\7mk7485jlt-88ayljc3y9.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\775xmgcsbj-zzhbizqlk9.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\hkmguu9lhi-84g50xniwd.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\5gr42aox2d-tn8x2ci1s4.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\d6bsehc1rl-3n6ep3jmzo.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\eat5x51wge-gwndjpfll5.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\lsl1tic0qd-sz6990sd63.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\zfciczir8x-7ub7l7u5y6.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\vwd3yp2998-d5tc9bphfz.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\e052vcpy0b-goiki0k27y.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\3co0i05c8u-8m9trw2zc0.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\lroaceq1g3-o4p01wfodq.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\22evos2e5f-9ugm0d1n88.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\njs6zyw5y3-u76qalwz83.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\bsnz8q7glh-6ipdnegl6t.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\b1pxdvas16-udl76tydnh.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\xd172lfsz2-8jbdq0rmwb.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\gt7847dv7d-igx4hwr9mg.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\71pvxm1651-ipglhweb5e.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\no10mj9ke7-3ajr5l1ur1.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\cdk5dnrtvw-plfii9xsjz.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\l14898ngr7-80oebio2b4.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\xy1dp2a21y-vm6amm7x7h.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\97u9n0wn62-421brr8qwd.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\air1r2rv69-dqqfs0d2l4.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\c2pjfu7cai-8hn3gfsrsx.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\wread2ps5n-p3vlq0e0uj.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\bi0v1ierkn-gdvxgon1od.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\rcnj7xwk1a-b9sayid5wm.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\h3ncls8web-ewjeo1t8vm.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\fl721j3wfj-61n19gt1b8.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\1gblj0sxbz-6md53zf9mt.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\6s6y1ff71b-xtxxf3hu2r.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\fui8by2ebp-bqjiyaj88i.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\rp7j4o3y5c-c2jlpeoesf.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\dh7lpk57mz-erw9l3u2r3.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\41idbl3tpz-aexeepp0ev.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\4ile3yx67q-d7shbmvgxk.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\ufohyu8374-ausgxo2sd3.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\tyw0vn7ap7-k8d9w2qqmf.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\e05kq77elm-cosvhxvwiu.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\wnqt7citgs-ub07r2b239.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\z60rdbyc6n-fvhpjtyr6v.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\w6hh1rvr32-b7pk76d08c.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\4w9ony0gfb-fsbi9cje9m.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\rqe7pn31qp-rzd6atqjts.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\p8144kijeu-ee0r1s7dh0.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\yha52jgggx-dxx9fxp4il.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\yn9whizw07-jd9uben2k1.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\wexkrefbbo-khv3u5hwcm.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\ijt1o9ntio-r4e9w2rdcm.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\z10xsmttjj-lcd1t2u6c8.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\mxsfbw603t-c2oey78nd0.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\848wph9hxv-tdbxkamptv.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\vrpoom3rjn-j5mq2jizvt.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\qtrmkte2ms-06098lyss8.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\luarkyweq5-nvvlpmu67g.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\i9al5ktlkg-s35ty4nyc5.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\cm3gnj7kyg-pj5nd1wqec.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\m3owmc426e-46ein0sx1k.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\10rxw2xdcb-v0zj4ognzu.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\i4f7ftpg7u-37tfw0ft22.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\g2zsgw5ptv-hrwsygsryq.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\fprb2pllxe-pk9g2wxc8p.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\cjtp1ijp85-ft3s53vfgj.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\j1pqw6yc0s-6cfz1n2cew.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\x5jyju4z4r-6pdc2jztkx.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\0clctkiy0y-493y06b0oq.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\nuty4keuvx-iovd86k7lj.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\m82wv4qxt5-vr1egmr9el.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\j2k25is42u-kbrnm935zg.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\a2g829peny-jj8uyg4cgr.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\r726fdch2r-y7v9cxd14o.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\y8hzmms0ce-notf2xhcfb.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\teth1lypdv-h1s4sie4z3.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\asdvyp678g-63fj8s7r0e.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\fchsf2gvdr-0j3bgjxly4.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\0rrwtjt5i1-47otxtyo56.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\gncsgmbdb9-4v8eqarkd7.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\zto8km3xfv-356vix0kms.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\m3g770r55z-83jwlth58m.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\v4bt6lkrog-mrlpezrjn3.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\3e00yv3mqq-lzl9nlhx6b.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\nx2lwbrr1f-ag7o75518u.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\jdox7jvltd-x0q3zqp4vz.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\72z2usa0b7-0i3buxo5is.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\u0gjhlsunv-o1o13a6vjx.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\qjy1hl0pyh-ttgo8qnofa.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\0ecsyzckjs-2z0ns9nrw6.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\rpomc4ns42-muycvpuwrr.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\btff7qxkpl-87fc7y1x7t.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\shfwcviclv-mlv21k5csn.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\c8e0cw25jk-srj8hbdm74.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\compressed\q9dwlwl3j0-srj8hbdm74.gz
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\staticwebassets.build.json
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\staticwebassets.development.json
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\staticwebassets\msbuild.TuitionSys.Web.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\staticwebassets\msbuild.TuitionSys.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\staticwebassets\msbuild.build.TuitionSys.Web.props
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.TuitionSys.Web.props
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.TuitionSys.Web.props
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\staticwebassets.pack.json
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\TuitionS.DA691588.Up2Date
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\TuitionSys.Web.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\refint\TuitionSys.Web.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\TuitionSys.Web.pdb
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\TuitionSys.Web.genruntimeconfig.cache
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Web\obj\Debug\net9.0\ref\TuitionSys.Web.dll

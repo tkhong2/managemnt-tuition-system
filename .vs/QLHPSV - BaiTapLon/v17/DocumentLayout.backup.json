@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ManagementTuitionSystem\\QLHPSV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB53F33F-5AB5-498E-B3D1-27CB6C8E6E08}|TuitionSys.Application\\TuitionSys.Application.csproj|f:\\managementtuitionsystem\\qlhpsv\\tuitionsys.application\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB53F33F-5AB5-498E-B3D1-27CB6C8E6E08}|TuitionSys.Application\\TuitionSys.Application.csproj|solutionrelative:tuitionsys.application\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB53F33F-5AB5-498E-B3D1-27CB6C8E6E08}|TuitionSys.Application\\TuitionSys.Application.csproj|f:\\managementtuitionsystem\\qlhpsv\\tuitionsys.application\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB53F33F-5AB5-498E-B3D1-27CB6C8E6E08}|TuitionSys.Application\\TuitionSys.Application.csproj|solutionrelative:tuitionsys.application\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|f:\\managementtuitionsystem\\qlhpsv\\tuitionsys.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|solutionrelative:tuitionsys.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|f:\\managementtuitionsystem\\qlhpsv\\tuitionsys.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|solutionrelative:tuitionsys.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE097AF6-B898-430D-AF97-86585BAA406D}|TuitionSys.Infrastructure\\TuitionSys.Infrastructure.csproj|f:\\managementtuitionsystem\\qlhpsv\\tuitionsys.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE097AF6-B898-430D-AF97-86585BAA406D}|TuitionSys.Infrastructure\\TuitionSys.Infrastructure.csproj|solutionrelative:tuitionsys.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C9191-3EF4-430C-896A-54C470F98225}|TuitionSys.Domain\\TuitionSys.Domain.csproj|f:\\managementtuitionsystem\\qlhpsv\\tuitionsys.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534C9191-3EF4-430C-896A-54C470F98225}|TuitionSys.Domain\\TuitionSys.Domain.csproj|solutionrelative:tuitionsys.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|f:\\managementtuitionsystem\\qlhpsv\\tuitionsys.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|solutionrelative:tuitionsys.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|f:\\managementtuitionsystem\\qlhpsv\\tuitionsys.web\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|solutionrelative:tuitionsys.web\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|f:\\managementtuitionsystem\\qlhpsv\\tuitionsys.web\\views\\coursestudent\\registercourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|solutionrelative:tuitionsys.web\\views\\coursestudent\\registercourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|f:\\managementtuitionsystem\\qlhpsv\\tuitionsys.web\\views\\coursestudent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|solutionrelative:tuitionsys.web\\views\\coursestudent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|f:\\managementtuitionsystem\\qlhpsv\\tuitionsys.web\\controllers\\coursestudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|solutionrelative:tuitionsys.web\\controllers\\coursestudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|f:\\managementtuitionsystem\\qlhpsv\\tuitionsys.web\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|solutionrelative:tuitionsys.web\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|f:\\managementtuitionsystem\\qlhpsv\\tuitionsys.web\\areas\\administrator\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|solutionrelative:tuitionsys.web\\areas\\administrator\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|f:\\managementtuitionsystem\\qlhpsv\\tuitionsys.web\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|solutionrelative:tuitionsys.web\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|f:\\managementtuitionsystem\\qlhpsv\\tuitionsys.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|solutionrelative:tuitionsys.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|f:\\managementtuitionsystem\\qlhpsv\\tuitionsys.web\\areas\\administrator\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|solutionrelative:tuitionsys.web\\areas\\administrator\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB53F33F-5AB5-498E-B3D1-27CB6C8E6E08}|TuitionSys.Application\\TuitionSys.Application.csproj|f:\\managementtuitionsystem\\qlhpsv\\tuitionsys.application\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB53F33F-5AB5-498E-B3D1-27CB6C8E6E08}|TuitionSys.Application\\TuitionSys.Application.csproj|solutionrelative:tuitionsys.application\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|f:\\managementtuitionsystem\\qlhpsv\\tuitionsys.web\\areas\\administrator\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|solutionrelative:tuitionsys.web\\areas\\administrator\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|f:\\managementtuitionsystem\\qlhpsv\\tuitionsys.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|solutionrelative:tuitionsys.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|f:\\managementtuitionsystem\\qlhpsv\\tuitionsys.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798E3521-7D7D-4225-BBA5-AA5E56E14409}|TuitionSys.Web\\TuitionSys.Web.csproj|solutionrelative:tuitionsys.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "TuitionSys.Web\\appsettings.json",
+              "ToolTip": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\appsettings.json",
+              "RelativeToolTip": "TuitionSys.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-06T17:02:43.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "TuitionSys.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "TuitionSys.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:00:58.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "TuitionSys.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "TuitionSys.Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:59:56.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Application\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "TuitionSys.Application\\Services\\CourseService.cs",
+              "ToolTip": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Application\\Services\\CourseService.cs",
+              "RelativeToolTip": "TuitionSys.Application\\Services\\CourseService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:46:14.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Application\\Interfaces\\ICourseService.cs",
+              "RelativeDocumentMoniker": "TuitionSys.Application\\Interfaces\\ICourseService.cs",
+              "ToolTip": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Application\\Interfaces\\ICourseService.cs",
+              "RelativeToolTip": "TuitionSys.Application\\Interfaces\\ICourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:46:09.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Program.cs",
+              "RelativeDocumentMoniker": "TuitionSys.Web\\Program.cs",
+              "ToolTip": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Program.cs",
+              "RelativeToolTip": "TuitionSys.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:34:54.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Views\\Payment\\Index.cshtml",
+              "RelativeDocumentMoniker": "TuitionSys.Web\\Views\\Payment\\Index.cshtml",
+              "ToolTip": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Views\\Payment\\Index.cshtml",
+              "RelativeToolTip": "TuitionSys.Web\\Views\\Payment\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T18:16:14.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "TuitionSys.Web\\Controllers\\PaymentController.cs",
+              "ToolTip": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "TuitionSys.Web\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:15:39.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseStudentController.cs",
+              "DocumentMoniker": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Controllers\\CourseStudentController.cs",
+              "RelativeDocumentMoniker": "TuitionSys.Web\\Controllers\\CourseStudentController.cs",
+              "ToolTip": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Controllers\\CourseStudentController.cs",
+              "RelativeToolTip": "TuitionSys.Web\\Controllers\\CourseStudentController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwE4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:11:51.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Views\\CourseStudent\\Index.cshtml",
+              "RelativeDocumentMoniker": "TuitionSys.Web\\Views\\CourseStudent\\Index.cshtml",
+              "ToolTip": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Views\\CourseStudent\\Index.cshtml",
+              "RelativeToolTip": "TuitionSys.Web\\Views\\CourseStudent\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T18:13:04.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Areas\\Administrator\\Views\\Report\\Index.cshtml",
+              "RelativeDocumentMoniker": "TuitionSys.Web\\Areas\\Administrator\\Views\\Report\\Index.cshtml",
+              "ToolTip": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Areas\\Administrator\\Views\\Report\\Index.cshtml",
+              "RelativeToolTip": "TuitionSys.Web\\Areas\\Administrator\\Views\\Report\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T08:21:20.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "TuitionSys.Web\\Views\\Account\\Register.cshtml",
+              "ToolTip": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "TuitionSys.Web\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T08:46:38.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TuitionSys.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TuitionSys.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAAAO4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T08:03:20.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterCourse.cshtml",
+              "DocumentMoniker": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Views\\CourseStudent\\RegisterCourse.cshtml",
+              "RelativeDocumentMoniker": "TuitionSys.Web\\Views\\CourseStudent\\RegisterCourse.cshtml",
+              "ToolTip": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Views\\CourseStudent\\RegisterCourse.cshtml",
+              "RelativeToolTip": "TuitionSys.Web\\Views\\CourseStudent\\RegisterCourse.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T18:17:08.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Application\\DTOs\\StudentDto.cs",
+              "RelativeDocumentMoniker": "TuitionSys.Application\\DTOs\\StudentDto.cs",
+              "ToolTip": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Application\\DTOs\\StudentDto.cs",
+              "RelativeToolTip": "TuitionSys.Application\\DTOs\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T08:19:07.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Areas\\Administrator\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "TuitionSys.Web\\Areas\\Administrator\\Views\\Student\\Index.cshtml",
+              "ToolTip": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Areas\\Administrator\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "TuitionSys.Web\\Areas\\Administrator\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T08:21:56.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TuitionSys.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TuitionSys.Web\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowHUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T08:18:22.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Areas\\Administrator\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "TuitionSys.Web\\Areas\\Administrator\\Views\\Student\\Create.cshtml",
+              "ToolTip": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Areas\\Administrator\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "TuitionSys.Web\\Areas\\Administrator\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T09:05:00.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "TuitionSys.Web\\Views\\Account\\Login.cshtml",
+              "ToolTip": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "TuitionSys.Web\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T08:18:15.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TuitionSys.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\ManagementTuitionSystem\\QLHPSV\\TuitionSys.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TuitionSys.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowCMAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T08:03:26.189Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

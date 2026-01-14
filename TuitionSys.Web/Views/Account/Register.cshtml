@@ -1,0 +1,75 @@
+﻿
+@{
+    ViewData["Title"] = "Register";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Đăng nhập / Đăng kí </title>
+    <link rel="stylesheet" href="@Url.Content("~/css/style.css")" />
+
+    <!-- Boxicons CSS -->
+    <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
+
+</head>
+<body>
+    <style>
+        
+    </style>
+    <section class="container forms show-signup">
+       
+
+        <!-- Signup Form -->
+
+        <div class="form signup">
+            <div class="form-content">
+                <header>Đăng ký</header>
+                <form asp-action="Register" method="post">
+                    @* <div class="field input-field"> *@
+                    @*     <input type="text" name="Họ và tên:" placeholder="Học và tên" class="input" required /> *@
+                    @* </div> *@
+                   
+                    <div class="field input-field">
+                        <input type="email" name="email" placeholder="Email" class="input" required />
+                    </div>
+                    <select class="field input-field">
+                        <option value="">-- Chọn ngành học --</option>
+                        <option value="Công nghệ thông tin">Công nghệ thông tin</option>
+                        <option value="Khoa học máy tính">Khoa học máy tính</option>
+                        <option value="Quản trị kinh doanh">Quản trị kinh doanh</option>
+                        <option value="Kĩ thuật Oto">Kĩ thuật Oto</option>
+                        <option value="Marketing">Marketing</option>
+					</select> 
+                    <div class="field input-field">
+						<input type="text" name="class" placeholder="Lớp học" class="input" required />
+					</div>
+                    <div class="field input-field">
+                        <input type="password" name="password" placeholder="Mật khẩu" class="password" required />
+                    </div>
+                    <div class="field input-field">
+                        <input type="password" name="confirmPassword" placeholder="Nhập lại mật khẩu" class="password" required />
+                    </div>
+                    <div class="field button-field">
+                        <button type="submit">Đăng ký</button>
+                    </div>
+                </form>
+                <div class="form-link">
+                    <span>Đã có tài khoản? <a href="/Account/Login" class="link">Đăng nhập</a></span>
+                </div>
+                </div>
+
+        </div>
+    </section>
+
+   
+    <script src="@Url.Content("~/js/script.js")"></script>
+</body>
+</html>
+
+
+

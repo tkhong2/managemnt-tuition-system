@@ -1,0 +1,46 @@
+﻿@model IEnumerable<TuitionSys.Application.DTOs.PaymentDto>
+
+@{
+    ViewData["Title"] = "Danh sách thanh toán";
+    Layout = "~/Areas/Administrator/Views/Shared/_Layout.cshtml";
+}
+<style>
+    table th {
+        text-transform: none !important;
+    }
+</style>
+<section class="section">
+    <h1>Danh sách thanh toán</h1>
+    
+    <table class="table table-bordered table-hover">
+        <thead class="align-middle">
+            <tr>
+                <th>Mã thanh toán</th>
+                <th>Mã sinh viên</th>
+                <th>Mã học phần</th>
+                <th>Số tiền</th>
+                <th>Ngày thanh toán</th>
+                <th>Trạng thái</th>
+                <th>Hành động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.PaymentId</td>
+                    <td>@item.StudentId</td>
+                    <td>@item.CourseId</td>
+                    <td>@(item.Amount?.ToString("N0") ?? "0")</td>
+                    <td>@(item.PaymentDate?.ToString("dd/MM/yyyy") ?? "")</td>
+                    <td>@item.Status</td>
+                    <td> 
+                         <div class="action-buttons d-flex gap-2"> 
+                             <a href="/Administrator/Payment/Detail/@item.PaymentId" class="btn btn-warning btn-sm">Xem chi tiết</a> 
+                         </div> 
+                     </td> 
+                </tr>
+            }
+        </tbody>
+    </table>
+</section>

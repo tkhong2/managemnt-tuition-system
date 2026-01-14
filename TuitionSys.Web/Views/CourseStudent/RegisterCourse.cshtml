@@ -1,0 +1,28 @@
+﻿@model TuitionSys.Application.DTOs.RegistrationDto
+
+@{
+    ViewData["Title"] = "Kết quả đăng ký học phần";
+}
+
+<h2>Đăng ký thành công!</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Mã giao dịch</th>
+        <td>@Model.RegistrationId</td>
+    </tr>
+    <tr>
+        <th>Mã sinh viên</th>
+        <td>@Model.StudentId</td>
+    </tr>
+    <tr>
+        <th>Mã học phần</th>
+        <td>@Model.CourseId</td>
+    </tr>
+    <tr>
+        <th>Ngày đăng ký</th>
+        <td>@Model.RegistrationDate?.ToString("dd/MM/yyyy")</td>
+    </tr>
+</table>
+
+<a  asp-controller="CourseStudent" asp-action="Index" class="btn btn-secondary">Quay lại</a>

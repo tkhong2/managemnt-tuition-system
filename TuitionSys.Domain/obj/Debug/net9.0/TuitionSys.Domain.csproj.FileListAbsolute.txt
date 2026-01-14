@@ -1,0 +1,23 @@
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Domain\bin\Debug\net9.0\TuitionSys.Domain.deps.json
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Domain\bin\Debug\net9.0\TuitionSys.Domain.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Domain\bin\Debug\net9.0\TuitionSys.Domain.pdb
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Domain\obj\Debug\net9.0\TuitionSys.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Domain\obj\Debug\net9.0\TuitionSys.Domain.AssemblyInfoInputs.cache
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Domain\obj\Debug\net9.0\TuitionSys.Domain.AssemblyInfo.cs
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Domain\obj\Debug\net9.0\TuitionSys.Domain.csproj.CoreCompileInputs.cache
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Domain\obj\Debug\net9.0\TuitionSys.Domain.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Domain\obj\Debug\net9.0\refint\TuitionSys.Domain.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Domain\obj\Debug\net9.0\TuitionSys.Domain.pdb
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Domain\obj\Debug\net9.0\ref\TuitionSys.Domain.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Domain\bin\Debug\net9.0\TuitionSys.Domain.deps.json
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Domain\bin\Debug\net9.0\TuitionSys.Domain.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Domain\bin\Debug\net9.0\TuitionSys.Domain.pdb
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Domain\obj\Debug\net9.0\TuitionSys.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Domain\obj\Debug\net9.0\TuitionSys.Domain.AssemblyInfoInputs.cache
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Domain\obj\Debug\net9.0\TuitionSys.Domain.AssemblyInfo.cs
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Domain\obj\Debug\net9.0\TuitionSys.Domain.csproj.CoreCompileInputs.cache
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Domain\obj\Debug\net9.0\TuitionSys.Domain.sourcelink.json
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Domain\obj\Debug\net9.0\TuitionSys.Domain.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Domain\obj\Debug\net9.0\refint\TuitionSys.Domain.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Domain\obj\Debug\net9.0\TuitionSys.Domain.pdb
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Domain\obj\Debug\net9.0\ref\TuitionSys.Domain.dll

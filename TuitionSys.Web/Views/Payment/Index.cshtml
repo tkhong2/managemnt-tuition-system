@@ -1,0 +1,31 @@
+﻿@model IEnumerable<TuitionSys.Application.DTOs.PaymentDto>
+
+@{
+    ViewData["Title"] = "Lịch sử giao dịch";
+}
+
+<h2>Lịch sử giao dịch</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Mã giao dịch</th>
+            <th>Tên học phần</th>
+            <th>Số tiền</th>
+            <th>Ngày thanh toán</th>
+            <th>Trạng thái</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var payment in Model)
+        {
+            <tr>
+                <td>@payment.PaymentId</td>
+                <td>@payment.CourseName</td>
+                <td>@String.Format("{0:N0} đ", payment.Amount)</td>
+                <td>@payment.PaymentDate?.ToString("dd/MM/yyyy")</td>
+                <td>@payment.Status</td>
+            </tr>
+        }
+    </tbody>
+</table>

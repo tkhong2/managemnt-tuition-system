@@ -1,0 +1,46 @@
+﻿@model TuitionSys.Application.DTOs.StudentDto
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Areas/Administrator/Views/Shared/_Layout.cshtml";
+}
+<h1>Chỉnh sửa sinh viên</h1>
+
+<form asp-area="Administrator" asp-controller="Student" asp-action="Edit" method="post" class="row g-3">
+    <div class="col-md-6">
+        <label asp-for="StudentId" class="form-label">Mã</label>
+        <input asp-for="StudentId" class="form-control" readonly />
+        <span asp-validation-for="StudentId" class="text-danger"></span>
+    </div>
+    <div class="col-md-6">
+        <label asp-for="FullName" class="form-label">Họ tên</label>
+        <input asp-for="FullName" class="form-control" />
+        <span asp-validation-for="FullName" class="text-danger"></span>
+    </div>
+    <div class="col-md-6">
+        <label asp-for="Class" class="form-label">Lớp</label>
+        <input asp-for="Class" type="text" class="form-control" />
+        <span asp-validation-for="Class" class="text-danger"></span>
+    </div>
+    <div class="col-md-6">
+        <label asp-for="Department" class="form-label">Ngành học</label>
+        <select asp-for="Department" class="form-select">
+            <option value="">-- Chọn ngành học --</option>
+            <option value="Công nghệ thông tin">Công nghệ thông tin</option>
+            <option value="Khoa học máy tính">Khoa học máy tính</option>
+            <option value="Quản trị kinh doanh">Quản trị kinh doanh</option>
+            <option value="Kĩ thuật Oto">Kĩ thuật Oto</option>
+            <option value="Marketing">Marketing</option>
+        </select>
+        <span asp-validation-for="Department" class="text-danger"></span>
+    </div>
+    <div class="col-md-6">
+        <label asp-for="PhoneNumber" class="form-label">Số điện thoại</label>
+        <input asp-for="PhoneNumber" class="form-control" />
+        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+    </div>
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Lưu thay đổi</button>
+        <a asp-area="Administrator" asp-controller="Student" asp-action="Index" class="btn btn-secondary">Quay lại</a>
+        
+    </div>
+</form>

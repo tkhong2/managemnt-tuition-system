@@ -1,0 +1,65 @@
+﻿@model IEnumerable<TuitionSys.Application.DTOs.StudentDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Administrator/Views/Shared/_Layout.cshtml";
+}
+
+<section class="section">
+    <h1>Danh sách sinh viên</h1>
+
+    <div class="row mb-3 align-items-center">
+        <div class="col-auto">
+            <a class="btn btn-primary"
+               asp-area="Administrator"
+               asp-controller="Student"
+               asp-action="Create">
+                Thêm mới
+            </a>
+        </div>
+        <div class="col">
+            <form asp-area="Administrator" asp-controller="Student" asp-action="Search" method="get" class="d-flex">
+                <input type="text"
+                       name="search"
+                       value="@(Context.Request.Query["search"])"
+                       placeholder="Search ..."
+                       class="form-control"
+                       style="max-width: 300px;" />
+                
+            </form>
+        </div>
+    </div>
+
+
+
+    <table class="table table-bordered table-hover">
+        <tr>
+            <th>Mã sinh viên</th>
+            <th>Họ và tên</th>
+            <th>Lớp</th>
+            <th>Ngành học</th>
+            <th>Số điện thoại</th>
+            
+            <th>Hành động</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                
+                <td>@item.StudentId</td>
+                <td>@item.FullName</td>
+                <td>@item.Class</td>
+                <td>@item.Department</td>
+                <td>@item.PhoneNumber</td>
+                <td>
+                    <a href="/Administrator/Student/Edit/@item.StudentId" class="btn btn-warning">Sửa</a>
+                    <a href="/Administrator/Student/Delete/@item.StudentId"
+                       onclick="return confirm('Bạn có chắc chắn muốn xóa sinh viên này?');"
+                       class="btn btn-danger">Xóa</a>
+
+                </td>
+            </tr>
+        }
+
+    </table>
+</section>
+

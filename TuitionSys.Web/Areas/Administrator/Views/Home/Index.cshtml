@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "Trang quản lý";
+    Layout = "~/Areas/Administrator/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="text-center mt-4 mb-5">
+        <h1>Hệ Thống Quản Lý Học Phí</h1>
+        <p class="lead">Chào mừng bạn đến với giao diện quản trị. Tại đây, bạn có thể theo dõi và quản lý toàn bộ thông tin liên quan đến học phí, sinh viên, học kỳ và giao dịch.</p>
+    </div>
+
+    <div class="row mb-4">
+        <div class="col-md-3">
+            <div class="card border-dark shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">👨‍🎓 Quản lý sinh viên</h5>
+                    <p class="card-text">Thêm, sửa, xoá sinh viên và quản lý thông tin cá nhân, lớp học.</p>
+                    <a href="/Administrator/Student" class="btn btn-outline-dark btn-sm">Xem danh sách</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="card border-primary shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">📅 Quản lý học phần</h5>
+                    <p class="card-text">Tạo mới, chỉnh sửa các học kỳ và thiết lập mức học phí tương ứng.</p>
+                    <a href="/Administrator/Course" class="btn btn-outline-primary btn-sm">Xem học phần</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="card border-success shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">💰 Quản lý học phí</h5>
+                    <p class="card-text">Gán học phí cho sinh viên, xử lý và kiểm soát các khoản thu.</p>
+                    <a href="/Administrator/Payment" class="btn btn-outline-success btn-sm">Quản lý học phí</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="card border-danger shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">📈 Báo cáo - thống kê</h5>
+                    <p class="card-text">Tổng hợp doanh thu, thống kê học phí theo lớp, ngành và thời gian.</p>
+                    <a href="/Administrator/Report" class="btn btn-outline-danger btn-sm">Xem báo cáo</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <hr />
+
+    <div class="text-center my-4">
+        <h4>🔒 Hệ thống an toàn và bảo mật</h4>
+        <p>Vui lòng đảm bảo bạn đăng xuất sau khi sử dụng hệ thống. Mọi hoạt động đều được ghi log và theo dõi bởi phòng CNTT.</p>
+    </div>
+</div>

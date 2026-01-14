@@ -1,0 +1,54 @@
+﻿@model TuitionSys.Application.DTOs.PaymentDto
+
+@{
+    ViewData["Title"] = "Chi tiết thanh toán";
+    Layout = "~/Areas/Administrator/Views/Shared/_Layout.cshtml";
+}
+
+<section class="section">
+    <h1>Chi tiết thanh toán</h1>
+    <table class="table table-bordered w-auto">
+        <tr>
+            <th>Mã thanh toán</th>
+            <td>@Model.PaymentId</td>
+        </tr>
+        <tr>
+            <th>Mã sinh viên</th>
+            <td>@Model.StudentId</td>
+        </tr>
+        <tr>
+            <th>Mã học phần</th>
+            <td>@Model.CourseId</td>
+        </tr>
+        <tr>
+            <th>Mã sinh viên</th>
+            <td>@Model.StudentId</td>
+        </tr>
+        <tr>
+            <th>Tên sinh viên</th>
+            <td>@Model.StudentName</td>
+        </tr>
+        <tr>
+            <th>Mã học phần</th>
+            <td>@Model.CourseId</td>
+        </tr>
+        <tr>
+            <th>Tên học phần</th>
+            <td>@Model.CourseName</td>
+        </tr>
+
+        <tr>
+            <th>Số tiền</th>
+            <td>@(Model.Amount?.ToString("N0") ?? "0")</td>
+        </tr>
+        <tr>
+            <th>Ngày thanh toán</th>
+            <td>@(Model.PaymentDate?.ToString("dd/MM/yyyy") ?? "")</td>
+        </tr>
+        <tr>
+            <th>Trạng thái</th>
+            <td>@Model.Status</td>
+        </tr>
+    </table>
+    <a asp-area="Administrator" asp-controller="Payment" asp-action="Index" class="btn btn-secondary">Quay lại</a>
+</section>

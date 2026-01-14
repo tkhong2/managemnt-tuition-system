@@ -1,0 +1,31 @@
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Application\bin\Debug\net9.0\TuitionSys.Application.deps.json
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Application\bin\Debug\net9.0\TuitionSys.Application.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Application\bin\Debug\net9.0\TuitionSys.Application.pdb
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Application\bin\Debug\net9.0\TuitionSys.Domain.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Application\bin\Debug\net9.0\TuitionSys.Domain.pdb
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Application\obj\Debug\net9.0\TuitionSys.Application.csproj.AssemblyReference.cache
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Application\obj\Debug\net9.0\TuitionSys.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Application\obj\Debug\net9.0\TuitionSys.Application.AssemblyInfoInputs.cache
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Application\obj\Debug\net9.0\TuitionSys.Application.AssemblyInfo.cs
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Application\obj\Debug\net9.0\TuitionSys.Application.csproj.CoreCompileInputs.cache
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Application\obj\Debug\net9.0\TuitionS.C6AB75C5.Up2Date
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Application\obj\Debug\net9.0\TuitionSys.Application.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Application\obj\Debug\net9.0\refint\TuitionSys.Application.dll
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Application\obj\Debug\net9.0\TuitionSys.Application.pdb
+F:\LapTrinhDNU\Backend\QLHPSV - BaiTapLon\TuitionSys.Application\obj\Debug\net9.0\ref\TuitionSys.Application.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Application\bin\Debug\net9.0\TuitionSys.Application.deps.json
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Application\bin\Debug\net9.0\TuitionSys.Application.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Application\bin\Debug\net9.0\TuitionSys.Application.pdb
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Application\bin\Debug\net9.0\TuitionSys.Domain.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Application\bin\Debug\net9.0\TuitionSys.Domain.pdb
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Application\obj\Debug\net9.0\TuitionSys.Application.csproj.AssemblyReference.cache
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Application\obj\Debug\net9.0\TuitionSys.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Application\obj\Debug\net9.0\TuitionSys.Application.AssemblyInfoInputs.cache
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Application\obj\Debug\net9.0\TuitionSys.Application.AssemblyInfo.cs
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Application\obj\Debug\net9.0\TuitionSys.Application.csproj.CoreCompileInputs.cache
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Application\obj\Debug\net9.0\TuitionSys.Application.sourcelink.json
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Application\obj\Debug\net9.0\TuitionS.C6AB75C5.Up2Date
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Application\obj\Debug\net9.0\TuitionSys.Application.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Application\obj\Debug\net9.0\refint\TuitionSys.Application.dll
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Application\obj\Debug\net9.0\TuitionSys.Application.pdb
+F:\ManagementTuitionSystem\QLHPSV\TuitionSys.Application\obj\Debug\net9.0\ref\TuitionSys.Application.dll
